@@ -10,4 +10,4 @@ Repo containing backups of all of my blogposts on the dev.to community blogging 
 
 or skip me completely and just browse the brilliant posts!
 
-[dev.to](https://devto) :computer:
+[dev.to](https://dev.to) :computer:
